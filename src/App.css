@@ -1,0 +1,40 @@
+/* src/App.css */
+.receipt .card {
+  max-width: 800px;
+  margin: 0 auto;
+  border: none;
+  border-radius: 10px;
+}
+
+.receipt h2 {
+  color: #28a745; /* Green color for the thank-you message */
+}
+
+.receipt .list-group-item {
+  border: none;
+  padding: 10px 0;
+}
+
+.receipt .text-muted {
+  font-size: 0.9rem;
+}
+.cart .text-muted {
+  color: #6c757d;
+}
+
+/* src/App.css */
+.receipt .card {
+  max-width: 800px;
+  margin: 0 auto;
+  border: none;
+  border-radius: 10px;
+}
+
+.receipt h1 {
+  font-size: 2rem;
+  color: #007bff; /* Blue color for the title */
+}
+
+.receipt img {
+  vertical-align: middle; /* Align logo with text */
+}
